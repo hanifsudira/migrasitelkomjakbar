@@ -1,0 +1,28 @@
+{
+  "name": "migrasi",
+  "version": "1.0.0",
+  "description": "Migrasi Telkom Jakarta Barat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: No Test Specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanifsudira/migrasitelkomjakbar.git"
+  },
+  "keywords": [
+    "migari",
+    "telkom",
+    "Jakarta",
+    "Barat"
+  ],
+  "author": "Hanif Sudira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanifsudira/migrasitelkomjakbar/issues"
+  },
+  "homepage": "https://github.com/hanifsudira/migrasitelkomjakbar#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
